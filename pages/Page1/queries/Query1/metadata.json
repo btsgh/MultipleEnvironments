@@ -69,7 +69,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-01-18T07:26:50Z"
   },
   "id": "Page1_Query1",
   "deleted": false,
